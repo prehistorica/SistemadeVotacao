@@ -1,0 +1,14 @@
+D:\Visual Studio\Sistema de Votação\bin\Debug\Sistema de Votação.exe.config
+D:\Visual Studio\Sistema de Votação\bin\Debug\Sistema de Votação.exe
+D:\Visual Studio\Sistema de Votação\bin\Debug\Sistema de Votação.pdb
+D:\Visual Studio\Sistema de Votação\obj\Debug\Sistema de Votação.csprojAssemblyReference.cache
+D:\Visual Studio\Sistema de Votação\obj\Debug\Sistema_de_Votação.frmLogin.resources
+D:\Visual Studio\Sistema de Votação\obj\Debug\Sistema_de_Votação.Properties.Resources.resources
+D:\Visual Studio\Sistema de Votação\obj\Debug\Sistema de Votação.csproj.GenerateResource.cache
+D:\Visual Studio\Sistema de Votação\obj\Debug\Sistema de Votação.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Sistema de Votação\obj\Debug\Sistema de Votação.exe
+D:\Visual Studio\Sistema de Votação\obj\Debug\Sistema de Votação.pdb
+D:\Visual Studio\Sistema de Votação\bin\Debug\Urna6.accdb
+D:\Visual Studio\Sistema de Votação\bin\Debug\Urna612.accdb
+D:\Visual Studio\Sistema de Votação\obj\Debug\Sistema_de_Votação.frmVotacao.resources
+D:\Visual Studio\Sistema de Votação\obj\Debug\Sistema_de_Votação.frmSair.resources
